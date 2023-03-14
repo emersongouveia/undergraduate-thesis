@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Me Exercite</string>
+    <string name="home">Inicio</string>
+    <string name="exercises">Exercícios</string>
+    <string name="guides">Guias</string>
+    <string name="challenges">Desafios</string>
 </resources>
